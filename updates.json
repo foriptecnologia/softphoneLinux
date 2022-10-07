@@ -1,8 +1,8 @@
 {
     "linux-x64-prod": {
-        "update": "https://github.com/foriptecnologia/softphoneLinux/releases/download/1.0.9/softphone-1.0.9.AppImage",
-        "install": "https://github.com/foriptecnologia/softphoneLinux/releases/download/1.0.9/softphone-1.0.9.AppImage",
-        "version": "1.0.9",
-       "sha512": "FtcMot3Hfyxc7uim0bL76vvoZLeCITpjc3aQDW9mf0XMdwITy1hISuWvsOkE0f3R7EAoPqaPSPVMtmAtGSxwGw=="
+        "update": "https://github.com/foriptecnologia/softphone/releases/download/v1.0.11/softphone-1.0.11.AppImage",
+        "install": "https://github.com/foriptecnologia/softphone/releases/download/v1.0.11/softphone-1.0.11.AppImage",
+        "version": "1.0.11",
+       "sha512": "gpMHGqauursK9mVzQAg1Md+yWOP9RWWXjW6wj5xumkaVIY0vD8RwpWGu/2GcWujj8f4GyAxDgawQ55zfcNknFw=="
     }
 }
